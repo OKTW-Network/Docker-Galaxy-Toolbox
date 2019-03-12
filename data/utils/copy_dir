@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+cp -rf /copy_dir_1/* /copy_dir_2/
